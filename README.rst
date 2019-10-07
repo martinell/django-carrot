@@ -16,7 +16,7 @@
 .. image:: https://img.shields.io/badge/License-Apache%202.0-blue.svg
     :target: https://opensource.org/licenses/Apache-2.0
 
-.. image:: /docs/source/images/carrot-logo-big.png
+.. image:: /docs/images/carrot-logo-big.png
     :align: center
 
 **django-carrot** is a lightweight task queue backend for Django projects that uses the RabbitMQ message broker, with
